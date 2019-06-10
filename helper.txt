@@ -1,0 +1,5 @@
+
+python Desktop/ml-agents-master/ml-agents-master/python/learn.py --train --slow
+
+
+python Desktop/ml-agents-master/ml-agents-master/python/learn.py Desktop/ml-agents-master/ml-agents-master/python/TENNIS.exe --runid=firstRun --train --slow
